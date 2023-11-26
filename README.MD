@@ -257,9 +257,6 @@ PostMan의 오픈소스 서비스를 개발해보자
 | :---------------------------------: | :---------------------------------: |
 | ![번다운차트5](./img/스프린트5.png) | ![번다운차트6](./img/스프린트6.png) |
 
-### 최종발표 ppt
-
-![최종발표ppt](./img/최종발표%20PPT.gif)
 
 <br>
 
@@ -457,71 +454,6 @@ PostMan의 오픈소스 서비스를 개발해보자
 | :------------------------------------: | :----------------------------------: | :------------------------------------: | :----------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 |      ![강수민](./img/강수민.png)       |     ![김승용](./img/김승용.png)      |      ![김재원](./img/김재원.png)       |        ![조성락](./img/조성락.png)         |       ![천원준](./img/천원준.png)       |       ![최경인](./img/최경인.jpg)       |
 |  FE Leader<br>BackEnd<br>PM<br>Design  |         BackEnd<br>FrontEnd          |         FrontEnd<br>Extension          |      BackEnd<br>FrontEnd<br>DataBase       |      BackEnd<br>FrontEnd<br>Infra       |           BackEnd<br>FrontEnd           |
-
-### 팀원 역할 상세
-
-**_강수민_**
-
-- BE : Request API 요청 처리
-- FE
-  - Request 컴포넌트 구현
-  - Params 컴포넌트 구현
-  - Headers 컴포넌트 구현
-  - Body 컴포넌트 구현
-  - Response 컴포넌트 구현
-  - JSON Viewer & Editor 적용
-  - Request, Response 창 조절 이벤트 구현
-  - Category, Collection Tree 컴포넌트 리펙토링
-    - 재귀 구조 정리
-    - Props 및 이벤트 정리
-- 와이어 프레임, 목업 디자인
-- 스크럼, 데일리 회고 관리
-
-**_김승용_**
-
-- Spring Boot 와 mongo data JPA를 활용한 Workspace 기능 API 구현
-- Spring Boot를 활용한 메일 초대 기능 구현
-- Vue3를 활용한 페이지 구현
-
-  - WorkSpace 생성 컴포넌트
-  - overview 컴포넌트
-  - setting 컴포넌트
-
-**_김재원_**
-
-- Vue3를 사용한 프론트엔드 구현
-  - Pinia를 사용한 상태관리
-  - 메인 페이지 구현
-  - 라우트 네비게이션 가드 구현
-- 크롬 익스텐션 개발
-
-  - 팝업페이지, 인젝션 스크립트 페이지 구현
-  - 로그인 팝업, 워크스페이스 플로팅 페이지 구현
-
-**_조성락_**
-
-- Spring Security를 이용한 인증/인가
-  - Oauth2.0을 이용한 소셜로그인 구현(구글, 깃헙)
-  - 유저 권한에 따른 허용가능 API 분리
-- JWT 토튼 발급, 재발급 및 커스텀 필터 구현
-- Vue3를 이용한 홈페이지 화면구현
-  - 로그인 화면
-  - 인트로 화면
-  - 유저정보 화면
-
-**_천원준_**
-
-- Docker, Jenkins를 활용한 Front-End, Back-End CI/CD 파이프라인 구축
-- Spring Boot 및 MongoDB 활용한 History 기능 API 구현
-- Vue.js3 활용한 History 페이지 화면 구현
-
-**_최경인_**
-
-- UCC 촬영/제작
-- collection의 트리형식 폴더 구조를 중첩리스트와 Vue.js를 사용하여 구현
-- spring boot와 mongo data JPA 를 활용한 folder 구조 CRUD REST API 구현
-
-<br/>
 
 [🔼 목차로 돌아가기](#목차)
 
