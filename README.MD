@@ -15,7 +15,6 @@
 
 ## :book: 개요
 
-**_👏 SSAFY 9기 2학기 자율 프로젝트 👏_**  
 PostMan의 오픈소스 서비스를 개발해보자
 
 > 2023.10.09 ~ 2023.011.17 (6주)
@@ -27,12 +26,6 @@ PostMan의 오픈소스 서비스를 개발해보자
 <br/>
 
 ## :bulb: 프로젝트 기획
-
-### UCC
-
-[![SAPIER UCC](https://img.youtube.com/vi/23xa-LyzMoY/0.jpg)](https://youtu.be/23xa-LyzMoY?si=o_KGtmH2q5kbN55v)
-
-<br/>
 
 ### 배경
 
@@ -579,19 +572,3 @@ PostMan의 오픈소스 서비스를 개발해보자
 
 <br/>
 
-## :seedling: 회고 기록
-
-### [🔷 스크럼 & 스프린트 회고](./scrum/README.md)
-
-### 🔷 데일리 회고
-
-- [강수민 데일리 회고](./review/강수민/README.MD)
-- [김승용 데일리 회고](./review/김승용/README.MD)
-- [김재원 데일리 회고](./review/김재원/README.MD)
-- [조성락 데일리 회고](./review/조성락/README.MD)
-- [천원준 데일리 회고](./review/천원준/README.MD)
-- [최경인 데일리 회고](./review/최경인/README.MD)
-
-<br/>
-
-[🔼 목차로 돌아가기](#목차)
